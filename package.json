@@ -1,7 +1,7 @@
 {
-  "name": "lxg-docs",
+  "name": "docs",
   "version": "1.0.0",
-  "description": "lxg-dcos doc",
+  "description": "dcos project",
   "license": "MIT",
   "type": "module",
   "scripts": {
